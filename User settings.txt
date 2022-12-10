@@ -1,0 +1,38 @@
+
+  // === [ START ] === [ BACKGROUND SETTINGS ] === [ START ] === [ BACKGROUND SETTINGS ] === [ START ] ===
+
+   "background.enabled": true,
+   "background.useDefault": false,
+   "background.useFront": false,
+   "background.loop": false,
+
+  /*
+  // [ TEXAS ]
+  "background.customImages": ["file:///D:/Data/Images/texas.png"],
+  "background.style": {
+    "background-size": "28% auto",
+    "opacity": 0.25
+  },
+  */
+  /*
+  // [ FIAMMETTA ]
+  "background.customImages": ["file:///D:/Data/Images/fiammetta.png"],
+  "background.style": {
+    "background-size": "175%",
+    "opacity": 0.1,
+    "background-position": "top",
+  },
+  */
+  
+  // [ SURTR ]
+  "background.customImages": ["file:///D:/Data/Images/surtr.jpg"],
+  "background.style": {
+    "background-size": "115%",
+    "opacity": 0.1,
+    "background-position-x": "center",
+    "background-position-y": "25%",
+  },
+  
+
+  // === [ END ] === [ BACKGROUND SETTINGS ] === [ END ] === [ BACKGROUND SETTINGS ] === [ END ] ===
+  
