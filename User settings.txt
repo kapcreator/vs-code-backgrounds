@@ -1,4 +1,4 @@
-// === [ START ] === [ BACKGROUND SETTINGS ] === [ START ] === [ BACKGROUND SETTINGS ] === [ START ] ===
+ // === [ START ] === [ BACKGROUND SETTINGS ] === [ START ] === [ BACKGROUND SETTINGS ] === [ START ] ===
 
    "background.enabled": true,
    "background.useDefault": false,
@@ -21,13 +21,20 @@
   // },
   
   // [ SURTR ]
-  "background.customImages": ["file:///D:/Data/Images/surtr.jpg"],
+  // "background.customImages": ["file:///D:/Data/Images/surtr.jpg"],
+  // "background.style": {
+  //   "background-size": "115%",
+  //   "opacity": 0.1,
+  //   "background-position-x": "center",
+  //   "background-position-y": "25%",
+  // },
+
+  // [ DVA ]
+  "background.customImages": ["file:///D:/Data/Images/dva.jpg"],
   "background.style": {
-    "background-size": "115%",
-    "opacity": 0.1,
-    "background-position-x": "center",
-    "background-position-y": "25%",
+    "background-size": "150%",
+    "opacity": 0.15,
+    "background-position": "center 25%",
   },
   
-
   // === [ END ] === [ BACKGROUND SETTINGS ] === [ END ] === [ BACKGROUND SETTINGS ] === [ END ] ===
