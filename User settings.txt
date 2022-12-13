@@ -1,18 +1,18 @@
- // === [ START ] === [ BACKGROUND SETTINGS ] === [ START ] === [ BACKGROUND SETTINGS ] === [ START ] ===
+// === [ START ] === [ BACKGROUND SETTINGS ] === [ START ] === [ BACKGROUND SETTINGS ] === [ START ] ===
 
    "background.enabled": true,
    "background.useDefault": false,
    "background.useFront": false,
    "background.loop": false,
 
-  // [ TEXAS ]
+  // [ TEXAS ] [ 0 ]
   // "background.customImages": ["file:///D:/Data/Images/texas.png"],
   // "background.style": {
   //   "background-size": "28% auto",
   //   "opacity": 0.25
   // },
   
-  // [ FIAMMETTA ]
+  // [ FIAMMETTA ] [ 0 ]
   // "background.customImages": ["file:///D:/Data/Images/fiammetta.png"],
   // "background.style": {
   //   "background-size": "175%",
@@ -20,7 +20,7 @@
   //   "background-position": "top",
   // },
   
-  // [ SURTR ]
+  // [ SURTR ] [ 0 ]
   // "background.customImages": ["file:///D:/Data/Images/surtr.jpg"],
   // "background.style": {
   //   "background-size": "115%",
@@ -29,12 +29,20 @@
   //   "background-position-y": "25%",
   // },
 
-  // [ DVA ]
-  "background.customImages": ["file:///D:/Data/Images/dva.jpg"],
+  // [ DVA ] [ 0 ]
+  // "background.customImages": ["file:///D:/Data/Images/dva.jpg"],
+  // "background.style": {
+  //   "background-size": "150%",
+  //   "opacity": 0.15,
+  //   "background-position": "center 25%",
+  // },
+
+  // [ BRONYA ] [ 0 ]
+  "background.customImages": ["file:///D:/Data/Images/bronya.png"],
   "background.style": {
-    "background-size": "150%",
-    "opacity": 0.15,
-    "background-position": "center 25%",
-  },
-  
+    "background-size": "100%",
+    "opacity": 0.1,
+    "background-position": "center",
+  }, 
+
   // === [ END ] === [ BACKGROUND SETTINGS ] === [ END ] === [ BACKGROUND SETTINGS ] === [ END ] ===
