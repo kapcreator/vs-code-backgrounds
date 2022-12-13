@@ -40,7 +40,7 @@
   // [ BRONYA ] [ 0 ]
   "background.customImages": ["file:///D:/Data/Images/bronya.png"],
   "background.style": {
-    "background-size": "100%",
+    "background-size": "cover",
     "opacity": 0.1,
     "background-position": "center",
   }, 
