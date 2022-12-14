@@ -1,18 +1,18 @@
 // === [ START ] === [ BACKGROUND SETTINGS ] === [ START ] === [ BACKGROUND SETTINGS ] === [ START ] ===
 
-   "background.enabled": true,
-   "background.useDefault": false,
-   "background.useFront": false,
-   "background.loop": false,
+  "background.enabled": true,
+  "background.useDefault": false,
+  "background.useFront": false,
+  "background.loop": false,
 
-  // [ TEXAS ] [ 0 ]
-  // "background.customImages": ["file:///D:/Data/Images/texas.png"],
+  // [ TEXAS[0][1] ]
+  // "background.customImages": ["file:///D:/Data/Images/texas2.png"],
   // "background.style": {
   //   "background-size": "28% auto",
-  //   "opacity": 0.25
+  //   "opacity": 0.2
   // },
   
-  // [ FIAMMETTA ] [ 0 ]
+  // [ FIAMMETTA[0] ]
   // "background.customImages": ["file:///D:/Data/Images/fiammetta.png"],
   // "background.style": {
   //   "background-size": "175%",
@@ -20,7 +20,7 @@
   //   "background-position": "top",
   // },
   
-  // [ SURTR ] [ 0 ]
+  // [ SURTR[0] ]
   // "background.customImages": ["file:///D:/Data/Images/surtr.jpg"],
   // "background.style": {
   //   "background-size": "115%",
@@ -29,7 +29,7 @@
   //   "background-position-y": "25%",
   // },
 
-  // [ DVA ] [ 0 ]
+  // [ DVA[0] ]
   // "background.customImages": ["file:///D:/Data/Images/dva.jpg"],
   // "background.style": {
   //   "background-size": "150%",
@@ -37,12 +37,20 @@
   //   "background-position": "center 25%",
   // },
 
-  // [ BRONYA ] [ 0 ]
-  "background.customImages": ["file:///D:/Data/Images/bronya.png"],
+  // [ BRONYA[0] ]
+  // "background.customImages": ["file:///D:/Data/Images/bronya.png"],
+  // "background.style": {
+  //   "background-size": "cover",
+  //   "opacity": 0.1,
+  //   "background-position": "center",
+  // }, 
+
+  // [ RITA[0] TEXAS[0][1] ]
+  "background.customImages": ["file:///D:/Data/Images/rita.png"],
   "background.style": {
-    "background-size": "cover",
+    "background-size": "auto 100%",
     "opacity": 0.1,
-    "background-position": "center",
+    "background-position": "left",
   }, 
 
-  // === [ END ] === [ BACKGROUND SETTINGS ] === [ END ] === [ BACKGROUND SETTINGS ] === [ END ] ===
+// === [ END ] === [ BACKGROUND SETTINGS ] === [ END ] === [ BACKGROUND SETTINGS ] === [ END ] ===
